@@ -7,7 +7,7 @@ from sklearn import datasets
 #    https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent.
 # Then copy and paste code asked for below in between the dashed lines.
 # Do not import additional packages.
- 
+#
 # Task 1:
 # Instructions:
 # In the notebook, you wrote a function that implements an MLP with 2 hidden layers.
